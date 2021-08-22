@@ -36,9 +36,14 @@
       "category": "Misc"
     },
     {
+      "text": "Finish coding homework",
+      "category": "Code",
+      "id": 9
+    },
+    {
       "text": "code",
       "category": "Code",
-      "id": 8
+      "id": 10
     }
   ]
 }
